@@ -106,7 +106,7 @@ if __name__ == '__main__':
                 else: 
                     print("A monitoring thread already exists! If this error persists, restart the program.")
             else:
-                print("The folder you specified doesn't exist.")0
+                print("The folder you specified doesn't exist.")
 
         elif event == '-STOP-':
 
